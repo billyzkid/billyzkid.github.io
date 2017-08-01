@@ -1,0 +1,8 @@
+{
+  "api_endpoint": "https://billyzkid.github.io/loremappsum/data/api/",
+  "api_token": "123456789",
+  "config_cache_ttl": "00:15:00",
+  "channel_cache_ttl": "00:05:00",
+  "video_cache_ttl": "00:01:00",
+  "refresh_interval": "00:00:10"
+}

@@ -1,0 +1,94 @@
+[
+  {
+    "id": "featured",
+    "label": "Featured",
+    "enabled": true,
+    "channels": [
+      {
+        "id": "abstract",
+        "label": "Abstract",
+        "logo": "http://lorempixel.com/40/40/abstract/",
+        "enabled": true
+      },
+      {
+        "id": "cats",
+        "label": "Cats",
+        "logo": "http://lorempixel.com/40/40/cats/",
+        "enabled": true
+      },
+      {
+        "id": "sports",
+        "label": "Sports",
+        "logo": "http://lorempixel.com/40/40/sports/",
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "id": "upcoming",
+    "label": "Upcoming",
+    "enabled": true,
+    "channels": [
+      {
+        "id": "animals",
+        "label": "Animals",
+        "logo": "http://lorempixel.com/40/40/animals/",
+        "enabled": true
+      },
+      {
+        "id": "business",
+        "label": "Business",
+        "logo": "http://lorempixel.com/40/40/business/",
+        "enabled": true
+      },
+      {
+        "id": "city",
+        "label": "City",
+        "logo": "http://lorempixel.com/40/40/city/",
+        "enabled": true
+      },
+      {
+        "id": "food",
+        "label": "Food",
+        "logo": "http://lorempixel.com/40/40/food/",
+        "enabled": true
+      },
+      {
+        "id": "nightlife",
+        "label": "Nightlife",
+        "logo": "http://lorempixel.com/40/40/nightlife/",
+        "enabled": true
+      },
+      {
+        "id": "fashion",
+        "label": "Fashion",
+        "logo": "http://lorempixel.com/40/40/fashion/",
+        "enabled": true
+      },
+      {
+        "id": "people",
+        "label": "People",
+        "logo": "http://lorempixel.com/40/40/people/",
+        "enabled": true
+      },
+      {
+        "id": "nature",
+        "label": "Nature",
+        "logo": "http://lorempixel.com/40/40/nature/",
+        "enabled": true
+      },
+      {
+        "id": "technics",
+        "label": "Technics",
+        "logo": "http://lorempixel.com/40/40/technics/",
+        "enabled": true
+      },
+      {
+        "id": "transport",
+        "label": "Transport",
+        "logo": "http://lorempixel.com/40/40/transport/",
+        "enabled": true
+      }
+    ]
+  }
+]
